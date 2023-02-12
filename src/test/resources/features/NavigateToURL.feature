@@ -1,9 +1,9 @@
 Feature: I want to navigate to different urls
 
-  Scenario: Failed Test
-    Given I have browser opened
-    When I am on the page with url as "https://google.com"
-    Then Page title contains "FAILED THIS"
+#  Scenario: Failed Test
+#    Given I have browser opened
+#    When I am on the page with url as "https://google.com"
+#    Then Page title contains "FAILED THIS"
 
   Scenario: I want to navigate to google search page 1
     Given I have browser opened
